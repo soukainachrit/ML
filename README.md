@@ -1,5 +1,5 @@
 # ML
-Ml progress
+Ml learning progress
 
 
 documenting my ML journey
